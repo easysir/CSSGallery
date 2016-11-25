@@ -13,15 +13,12 @@
 	<div id="gallery-3" class="control-operator"></div>
 	
 	<figure class="item">
-	  <img src="./slide1.jpg" />
 	</figure>
 	
 	<figure class="item">
-	  <img src="./slide2.jpg" />
 	</figure>
 	
 	<figure class="item">
-	  <img src="slide3.jpg" />
 	</figure>
 	
 	<div class="controls">
